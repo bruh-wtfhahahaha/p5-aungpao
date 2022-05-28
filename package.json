@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@fortune-inc/tw-voucher": "^1.0.5",
+    "chalk": "^5.0.0",
+    "colors": "^1.4.0",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.2",
+    "get-port": "^6.0.0",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "node": "^17.4.0",
+    "open": "^8.4.0",
+    "timestamp-conv": "^2.2.1"
+  },
+  "name": "file",
+  "description": "วิธีการติดตั้ง\r     1. โปรดติดตั้ง node.js ก่อน\r     2. กดเปิดไฟล์ 1 install และรอจนกว่าหน้าต่าง cmd จะปิดแล้วทำตามลำดับ 1 - 3 install\r     3. ไปที่ settings.json และตั้งค่าให้เรียบร้อย\r     4. หลักจากนั้นกดเปิด 4 run bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
